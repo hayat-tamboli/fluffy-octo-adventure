@@ -6,3 +6,8 @@ using this as a temporary repository to use some datasets in a collab file
 
 | idx	| facility_name	| city	| country	| code_3	| code_4	| lat	| long	| unknown_1	| unknown_2	| unknown_3	| region	| station_type	| unknown_4 |
 | -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| ------------- |
+
+## Coulmns/headers of [airline-routes](https://github.com/hayat-tamboli/fluffy-octo-adventure/blob/main/routes.csv)
+
+| airline	| airline ID	|  source airport	|  source airport id	|  destination apirport	|  destination airport id	|  codeshare	|  stops	|  equipment	|
+| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	| -------------	|
