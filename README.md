@@ -19,3 +19,7 @@ using this as a temporary repository to use some datasets in a collab file
 ## Columns/headers of [Countries-lat-long](https://github.com/hayat-tamboli/fluffy-octo-adventure/blob/main/countries-lat-long.csv)
 | iso2 |	lat	| long	| country |
 | --- | --- | --- | --- |
+
+## Columns/headers of [airport-iata-country](https://github.com/hayat-tamboli/fluffy-octo-adventure/blob/main/airport-iata-country.csv)
+| IATA Code |	Name |	Country |
+| --- | --- | --- |
